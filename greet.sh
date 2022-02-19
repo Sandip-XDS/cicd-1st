@@ -1,3 +1,3 @@
-Hello, Master XDS
-Let the Things Flow
-..................
+echo "Hello, Master XDS \n
+Let the Things Flow \n
+.................."
